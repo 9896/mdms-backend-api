@@ -1,0 +1,13 @@
+{
+    "name": "Disease",
+    "alias": "disease",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Disease\\Providers\\DiseaseServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

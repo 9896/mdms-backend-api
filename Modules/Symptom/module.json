@@ -1,0 +1,13 @@
+{
+    "name": "Symptom",
+    "alias": "symptom",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Symptom\\Providers\\SymptomServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

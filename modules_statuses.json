@@ -1,0 +1,13 @@
+{
+    "Blog": true,
+    "Diseases": true,
+    "Admin": true,
+    "Authentication": true,
+    "Common": true,
+    "Disease": true,
+    "DiseaseCategory": true,
+    "DiseaseClassification": true,
+    "Doctor": true,
+    "Patient": true,
+    "Symptom": true
+}
